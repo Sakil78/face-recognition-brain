@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ParticlesBg from 'particles-bg';
+import ParticlesBg from 'particles-bg'
 import Clarifai from 'clarifai';
 import FaceRecognition from './components/FaceRecognition/FaceRecognition';
 import Navigation from './components/Navigation/Navigation';
